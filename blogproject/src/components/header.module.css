@@ -1,0 +1,9 @@
+.header{
+    background: linear-gradient(to bottom, #90e8fa,#9eeefc,#c6eff8,#dff4f9);
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    height: 50px;
+    font-size: 2em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}

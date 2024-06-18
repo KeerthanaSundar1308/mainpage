@@ -1,0 +1,33 @@
+.data{
+    width: 500px;
+    color:rgb(74, 94, 244);
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.dataname{
+    font-weight: bold;
+    padding: 20px;
+
+
+}
+.line{
+   border: 1px #f4f4f4;
+
+}
+.delete{
+    padding: 10px 20px;
+    border: none;
+    color:rgb(31, 119, 243);
+    margin-top: 5px;
+    cursor: pointer;
+
+}
+
+.delete:hover{
+    transition: 0.3s;
+    cursor: pointer;
+    color: white;
+    padding: 15px 15px;
+    background-color: rgb(27, 168, 244);
+}

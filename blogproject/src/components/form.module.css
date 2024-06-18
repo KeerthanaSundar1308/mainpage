@@ -1,0 +1,44 @@
+.stylepost{
+    background: linear-gradient(to bottom,#bdfbfb, #d1fbfb,#d4f8f8,#e9fcfc);
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    color:black;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    cursor: pointer;    
+}
+.font{
+    width:100%;
+    border:none;
+    display: block;
+    color:black ;
+    font-size: 15px;
+    cursor: pointer;
+
+
+}
+.font:focus{
+    outline: none;
+}
+.button{
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    padding: 12px 20px;
+    color:rgb(47, 145, 243);
+    cursor: pointer;
+}
+
+
+.button:hover{
+    transition: 0.3s;
+    color: white;
+    background-color:rgb(0, 89, 255);
+    cursor: pointer;
+    padding: 15px;
+}
+.flex{
+    display: flex;
+}
